@@ -1,11 +1,11 @@
-# Olá, sou <Peto>
+# Olá, sou Peto
 
 Sou educando do [PAQ](http://prototipandoaquebrada.org/), estudo programação/design e minhas habilidades atuais são:
 
-- Habilidade1
-- Habilidade2
-- Habilidade3
-- Habilidade4
+- HTML / CSS BÁSICO 
+- FRE FAIRE 
+- VAROLANT
+- MINICRAFITI
 
 Me siga também nas minhas redes sociais:
   
