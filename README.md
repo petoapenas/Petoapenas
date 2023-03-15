@@ -1,11 +1,11 @@
 # Olá, sou Peto
 
-Sou educando do [PAQ](http://prototipandoaquebrada.org/), estudo programação/design e minhas habilidades atuais são:
+Sou educando do [PAQ](http://prototipandoaquebrada.org/) e  estudo programação !
 
 - HTML / CSS BÁSICO 
-- FRE FAIRE 
-- VAROLANT
-- MINICRAFITI
+- AMANTE DOS GAMES
+- SOFTSKILLS & HARDSKILLS 
+- COMPÊTENCIA
 
 Me siga também nas minhas redes sociais:
   
