@@ -1,4 +1,4 @@
-# Olá, sou Peto
+# Olá, sou o Peto
 
 Sou educando do [PAQ](http://prototipandoaquebrada.org/) e  estudo programação !
 
