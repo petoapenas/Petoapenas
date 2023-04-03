@@ -3,9 +3,9 @@
 Sou educando do [PAQ](http://prototipandoaquebrada.org/) e  estudo programação !
 
 - HTML / CSS BÁSICO 
-- AMANTE DOS GAMES
+- NERD DOS GAMES
 - SOFTSKILLS & HARDSKILLS 
-- COMPÊTENCIA
+
 
 Me siga também nas minhas redes sociais:
   
