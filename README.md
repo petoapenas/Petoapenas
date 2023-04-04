@@ -2,7 +2,7 @@
 
 Sou educando do [PAQ](http://prototipandoaquebrada.org/) e  estudo programação !
 
-- HTML / CSS BÁSICO 
+- HTML / CSS BÁSICO / JavaScript
 - NERD DOS GAMES
 - SOFTSKILLS & HARDSKILLS 
 
