@@ -1,6 +1,6 @@
 # Olá, sou o Peto
 
-Sou educando do [PAQ](http://prototipandoaquebrada.org/) e  estudo programação !
+Sou educando do [PAQ](http://prototipandoaquebrada.org/) e  estudo front-end e cloud! 
 
 
 
