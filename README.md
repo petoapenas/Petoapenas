@@ -4,6 +4,6 @@
 
 
 
-*Me siga também em algumas das minhas redes vizinhas*
+*Me siga também em alguma das minhas redes vizinhas*
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linktr.ee/petoteta)
