@@ -1,4 +1,5 @@
 # Olá, sou o Peto
+<br> Apaixonado por tecnologia desde cedo exploro diversos aspectos da área, desde programação até design gráfico.
 
 
 
