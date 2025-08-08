@@ -6,7 +6,8 @@
 
 *Me siga também em alguma das minhas redes vizinhas*
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linktr.ee/petoteta](https://www.linkedin.com/in/matheus-xavier-804ab3378))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/matheus-xavier-804ab3378])
+
 
 
 
